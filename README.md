@@ -2,24 +2,23 @@
 
 <!--
 #### Personal Projects
-- Foot Controller Mk II, Jul 2019 - Dec 2019
-- Foot Controller Mk I, Jun 2018 - Sep 2018
-- Bluetooth Beacon, Jun 2019
-- Hexapod, Mar 2019 - May 2019
+- Foot Controller Mk II, C, C++, Jul 2019 - Dec 2019
+- Foot Controller Mk I, C, C#, Jun 2018 - Sep 2018
+- Bluetooth Beacon, Java, Jun 2019
+- Hexapod, C++, Mar 2019 - May 2019
   - Bluetooth LE Joystick
-- Trikebot, Dec 2018
 #### School Works
-- Sensor Interfacing
-- Feedback Systems
-- Controller Systems
-- Robot Applications
-- C Programming
+- Sensor Interfacing, C
+- Feedback Systems, MATLAB, Simulink
+- Controller Systems, C, Assembly
+- Robot Applications, RAPID
+- C Programming, C
 #### Games
-- Tag
-- Jump! - Endless Platforms
-- Unlikely to Hit
-- Push the Block
-- Spinning Log
+- Tag, C#, AWS
+- Jump! - Endless Platforms, C#
+- Unlikely to Hit, C#
+- Push the Block, C#
+- Spinning Log, C#
 
 
 **tylim2946/tylim2946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
